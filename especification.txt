@@ -1,0 +1,11 @@
+Projeto para praticar rust
+
+- O que ele deixará fazer:
+
+-- Cadastrar um novo cliente
+-- Adicionar saldo em um cliente
+-- Remover saldo de um cliente
+
+
+- O projeto guardará os dados em um arquivo csv contido na
+pasta do projeto.
